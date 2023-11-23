@@ -1,0 +1,19 @@
+{
+  "name": "sowmyaaa1",
+  "version": "1.0.0",
+  "description": "Ecommerce application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://github.com/sowmyaaa1/nm_licet_it_group_5.git    "
+  },
+  
+  
+  
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
+}
